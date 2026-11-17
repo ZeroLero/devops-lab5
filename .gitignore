@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Служебные файлы Windows
+*:Zone.Identifier
+
+# Локальные настройки
+.env
+.env.*venv/
+__pycache__/
+.pytest_cache/
